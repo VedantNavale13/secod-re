@@ -1,3 +1,3 @@
 def fun():
   return 0/0
-def add():
+def add(1,m):
